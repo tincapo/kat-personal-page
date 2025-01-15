@@ -2,40 +2,35 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Katarzyna Terlecka
+Katarzyna Terlecka
+Marketing Manager
 
 Show Contacts
 
 Email
-richard@example.com
+-
 
 Phone
-+1 (213) 352-2795
+-
 
 Birthday
-June 23, 1982
+-
 
 Location
-Sacramento, California, USA
+Frisco, Texas, USA
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Currently residing in the United States, I hold the position of Marketing Manager within the biotechnology industry. My professional expertise lies in transforming intricate challenges into straightforward and actionable solutions.
 
 ## service
 
